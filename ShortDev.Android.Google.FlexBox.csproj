@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net7.0-android</TargetFramework>
+		<SupportedOSPlatformVersion>14</SupportedOSPlatformVersion>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+	<PropertyGroup>
+		<Version>3.0.0</Version>
+		<PackageLicenseUrl>https://github.com/google/flexbox-layout/blob/main/LICENSE</PackageLicenseUrl>
+		<PackageProjectUrl>https://github.com/google/flexbox-layout</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ShortDevelopment/ShortDev.Android.Google.FlexBox/</RepositoryUrl>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Remove="flexbox-3.0.0.aar" />
+	</ItemGroup>
+</Project>

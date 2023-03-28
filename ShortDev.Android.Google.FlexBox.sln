@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortDev.Android.Google.FlexBox", "ShortDev.Android.Google.FlexBox.csproj", "{6BB31715-0886-4A78-AE34-0DAE940AFABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB31715-0886-4A78-AE34-0DAE940AFABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB31715-0886-4A78-AE34-0DAE940AFABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB31715-0886-4A78-AE34-0DAE940AFABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB31715-0886-4A78-AE34-0DAE940AFABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CABB3B5-A982-4D6C-9B45-87A68CC38703}
+	EndGlobalSection
+EndGlobal
